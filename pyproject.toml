@@ -17,6 +17,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "tensorflow>=2.22.0rc0",
     "torch>=2.15.0",
+    "ultralytics>=8.4.213",
 ]
 
 [project.scripts]
